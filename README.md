@@ -82,6 +82,8 @@ ___
 
 * **obscene:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with obscene content (money, rockstar-lifestyle, etc).
 
+* **release_date:** When this song was released
+
 * **romantic:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with romantic feeling.
 
 * **sadness:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the importance of family or spirituality.
@@ -105,7 +107,7 @@ ___
 
 * **lyrics:** The pre-tokenized lyrics of this song. *Disclaimer: note that as this is real-world data, lyrical content is often obscene.* 
 
-* **release_date:** When this song was released
+
 
 * **topic:** The categorical label of lyrical content
 
