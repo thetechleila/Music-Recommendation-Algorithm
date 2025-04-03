@@ -1,5 +1,5 @@
 # Music Recommendation Algorithm 
-# Created Using KMEans Clustering, an Unsupervised Learning Method
+>> # Created Using *KMeans Clustering*, an Unsupervised Learning Method
 ___
 
 ## Project Overview
