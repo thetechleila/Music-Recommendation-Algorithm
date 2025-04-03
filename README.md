@@ -8,7 +8,7 @@ ___
 
 Within this project, I will be examining a real dataset of songs from 1950 to 2011. 
 
-This dataset contains a mix of lyrical and continuous variables pulled from a 2020 research paper titled [Music Dataset: Lyrics and Metadata from 1950 to 2019](https://data.mendeley.com/datasets/3t9vbwxgr5/3). 
+This dataset contains a mix of lyrical and continuous variables pulled from the 2020 [Music Dataset: Lyrics and Metadata from 1950 to 2019](https://data.mendeley.com/datasets/3t9vbwxgr5/3). 
 
 The project will be broken down into 5 stages, each housed in its own Jupyter notebook:
 
