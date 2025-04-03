@@ -10,7 +10,7 @@ Within this project, I will be examining a real dataset of songs from 1950 to 20
 
 This dataset contains a mix of lyrical and continuous variables pulled from a 2020 research paper titled [Music Dataset: Lyrics and Metadata from 1950 to 2019] (https://data.mendeley.com/datasets/3t9vbwxgr5/3). 
 
-The project will be broken down into 5 stages, each housed in its own Jupyter notebooks:
+The project will be broken down into 5 stages, each housed in its own Jupyter notebook:
 
 *Stage 1*
 * **Initial Exploratory Data Analysis (EDA):** Implementation of univariate, bivariate, and multivariate exploratory analyses and creation of relevant visualizations/graphs that inspect possible relationships between the several predictor features.
