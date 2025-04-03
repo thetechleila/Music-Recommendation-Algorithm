@@ -10,7 +10,7 @@ Within this project, I will be examining a real dataset of songs from 1950 to 20
 
 This dataset contains a mix of lyrical and continuous variables pulled from a 2020 research paper titled [Music Dataset: Lyrics and Metadata from 1950 to 2019] (https://data.mendeley.com/datasets/3t9vbwxgr5/3). 
 
-The project will be broken down into 5 stage, each housed in its own Jupyter notebooks:
+The project will be broken down into 5 stages, each housed in its own Jupyter notebooks:
 
 *Stage 1*
 * **Initial Exploratory Data Analysis (EDA):** Implementation of univariate, bivariate, and multivariate exploratory analyses and creation of relevant visualizations/graphs that inspect possible relationships between the several predictor features.
@@ -33,9 +33,9 @@ The new processed dataframes will be saved as new csv files.
 
 *Stage 4*
 * **New Sample Prediction:**
-Application of the trained machine learning algorithm on a pre-exisiting test data set in order to generate cluster labels for each new sample.
+    * Application of the trained machine learning algorithm on a pre-exisiting test data set in order to generate cluster labels for each new sample.
 
-After the generation of these clusters, these labels will be saved as a new column in my test dataset then will be saved this subsequent dataframe for further analysis.
+    * After the generation of these clusters, these labels will be saved as a new column in my test dataset then will be saved this subsequent dataframe for further analysis.
 
 *Stage 5*
 * **Report:**
