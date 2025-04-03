@@ -1,4 +1,5 @@
-# Music Recommendation Algorithm Created with an Unsupervised Learning Algorithm
+# Music Recommendation Algorithm 
+# Created Using KMEans Clustering, an Unsupervised Learning Method
 ___
 
 ## Project Overview
