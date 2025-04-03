@@ -59,38 +59,38 @@ ___
 ___
 
 ## Numeric Variables
-__ 
+___ 
 * **age:** A score from 0 to 1 expressing how “old” a song is from our perspective. 1 being the oldest, and 0 being the newest.
 
+* **communication:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with communication (either in romantic terms or otherwise).
+
 * **dating:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with dating.
+
+* **family/gospel:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with family-oriented content or the gospel.
+
+* **family/spiritual:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the importance of family or spirituality.
+
+* **feelings:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with emotions, either positive or negative.
+
+* **light/visual perceptions:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the sun or other physical weather-related patterns.
+
+* **movement/places:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with movement or various locations.
+
+* **music:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with music (music about music, basically).
+
+* **night/time:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do night-life or time.
+
+* **obscene:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with obscene content (money, rockstar-lifestyle, etc).
+
+* **romantic:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with romantic feeling.
+
+* **sadness:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the importance of family or spirituality.
+
+* **shake the audience:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with provocative feeling.
 
 * **violence:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with violence.
 
 * **world/life:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the world or life in general terms.
-
-* **night/time:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do night-life or time.
-
-* **shake the audience:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with provocative feeling.
-
-* **family/gospel:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with family-oriented content or the gospel.
-
-* **romantic:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with romantic feeling.
-
-* **communication:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with communication (either in romantic terms or otherwise).
-
-* **obscene:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with obscene content (money, rockstar-lifestyle, etc).
-
-* **music:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with music (music about music, basically).
-
-* **movement/places:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with movement or various locations.
-
-* **light/visual perceptions:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the sun or other physical weather-related patterns.
-
-* **family/spiritual:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the importance of family or spirituality.
-
-* **sadness:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the importance of family or spirituality.
-
-* **feelings:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with emotions, either positive or negative.
 
 ___
 
