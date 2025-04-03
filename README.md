@@ -107,8 +107,6 @@ ___
 
 * **lyrics:** The pre-tokenized lyrics of this song. *Disclaimer: note that as this is real-world data, lyrical content is often obscene.* 
 
-
-
 * **topic:** The categorical label of lyrical content
 
 * **track_name:** The name of the song
