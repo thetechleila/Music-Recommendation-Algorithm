@@ -37,11 +37,11 @@ The new processed dataframes will be saved as new csv files.
 
 #### *Stage 5*
 * **Report:**
-    * Detail insights found during the exploratory data analysus (EDA)
+    * Detailed insights found during the exploratory data analysus (EDA)
     * Explanation of why certain features were dropped or kept during the data wrangling phase and whether these actions informed by the EDA.
-    * List the optimal number of clusters in my cluster model and an explanation of how I determined this value
+    * Listing of the optimal number of clusters in the cluster model and an explanation of how this value was determined
     * Description of clusters in *human terms* using the columns from the dataset as reference
-    * Provide song recommendations to the user based based on the clusters my algorithm assigned to my test samples
+    * Sample song recommendations for a test user based on the clusters the algorithm assigned to the test samples
 
 ___
 
