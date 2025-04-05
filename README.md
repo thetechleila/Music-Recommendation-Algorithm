@@ -14,7 +14,7 @@ The project will be broken down into 5 stages, each housed in its own Jupyter no
 * **Initial Exploratory Data Analysis (EDA):** Implementation of univariate, bivariate, and multivariate exploratory analyses and creation of relevant visualizations/graphs that inspect possible relationships between the several predictor features.
 
 ####  *Stage 2*
-* **Data cleaning, Pre-Processing, and Dimensionality Reduction:** Techniques utilized include, but are not limited to:
+* **Data Cleaning, Data Wrangling/Pre-Processing, and Dimensionality Reduction:** Techniques utilized include, but are not limited to:
     * Removing columns with strong colinearity 
     * Dropping null values
     * Removing unnecessary columns
