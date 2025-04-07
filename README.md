@@ -62,6 +62,8 @@ ___
 
 * **feelings:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with emotions, either positive or negative.
 
+* **len:**  The number of words in the lyrics of this song
+
 * **light/visual perceptions:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with the sun or other physical weather-related patterns.
 
 * **movement/places:** A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with movement or various locations.
@@ -91,8 +93,6 @@ ___
 * **artist_name:** The name of the artist
 
 * **genre:** The categorical genre of this song
-
-* **len:**  The number of words in the lyrics of this song
 
 * **lyrics:** The pre-tokenized lyrics of this song. *Disclaimer: note that as this is real-world data, lyrical content is often obscene.* 
 
