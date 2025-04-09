@@ -111,7 +111,3 @@ ___
 * Scikit-learn for machine learning and data processing
 * Statsmodels for statistical data exploration
 * Jupyter Notebooks
-
-
-
-
