@@ -35,7 +35,7 @@ The new processed dataframes will be saved as new csv files.
 
     * After the generation of these clusters, these labels will be saved as a new column in my test dataset then will be saved this subsequent dataframe for further analysis.
 
-    * **Please Note that Stages 3 & 4 are both stored in the model_and_sample.ipynb Jupyter Notebook in the code folder.**
+    * **Please Note that Stages 3 & 4 are both stored in the model_and_sampleprediction.ipynb Jupyter Notebook in the code folder.**
 
 #### *Stage 5*
 * **Report:**
